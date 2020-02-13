@@ -1,2 +1,5 @@
 ## Stroopkoek 
-# To stroop or not to stroop
+
+
+My first blog post.
+[Blogpost 13-02-2020](/blog/)
